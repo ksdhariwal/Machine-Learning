@@ -61,15 +61,15 @@ Both are accurate, interpretable, and stable, making them ideal for dealership p
 ---
 
 ## Repository Structure
+Used-Car-Analysis/
+│
 ├── Used_Car_Regression_Analysis.ipynb   # Main notebook
 ├── README.md                            # Project summary and documentation
 └── data/
 └── vehicles.csv.zip               # Compressed dataset (>50MB)
 
 
-- The dataset is stored as a **zip file** due to GitHub’s file size limits.  
-- No unnecessary files are included.  
-- Directory names are clear and descriptive.
+- The dataset is stored as a **zip file** due to GitHub’s file size limits.
 
 ---
 
