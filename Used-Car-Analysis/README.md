@@ -59,17 +59,17 @@ Use **Linear Regression or Tuned Ridge Regression** as the final model.
 Both are accurate, interpretable, and stable, making them ideal for dealership pricing decisions.
 
 ---
-
 ## Repository Structure
-Used-Car-Analysis/ 
-│ 
-├── Used_Car_Regression_Analysis.ipynb   # Main notebook 
-├── README.md                            # Project summary and documentation 
-└── data/ 
-└── vehicles.csv.zip               # Compressed dataset (>50MB)
 
+~~~text
+Used-Car-Analysis/
+├── Used_Car_Regression_Analysis.ipynb   # Main notebook
+├── README.md                            # Project summary and documentation
+└── data/
+    └── vehicles.csv.zip                 # Compressed dataset (>50MB)
+~~~
 
-- The dataset is stored as a **zip file** due to GitHub’s file size limits.
+The dataset is stored as a zip file due to GitHub’s file size limits.
 
 ---
 
