@@ -10,7 +10,7 @@ The project follows a structured CRISP‑DM workflow, including data preparation
 
 ## Notebook
 **Main Notebook:**  
-`Used_Car_Regression_Analysis.ipynb`
+[`Used_Car_Regression_Analysis.ipynb`](./Used_Car_Regression_Analysis.ipynb)
 
 The notebook includes:
 - Clean, well‑structured headings  
